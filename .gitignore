@@ -4,3 +4,5 @@ venv/
 # IDE и конфигурационные файлы
 .cursor/
 rules.txt 
+
+.vscode/
